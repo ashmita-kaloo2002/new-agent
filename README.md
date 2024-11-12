@@ -2,4 +2,4 @@
 
 [Visit the App](https://stage.d2otz7rnfd0431.amplifyapp.com/dashboard)
 
-[D2C Flow] (https://stage.d2otz7rnfd0431.amplifyapp.com/wizr-redirectpage?session_id=123456)
+[D2C Flow](https://stage.d2otz7rnfd0431.amplifyapp.com/wizr-redirectpage?session_id=123456)
